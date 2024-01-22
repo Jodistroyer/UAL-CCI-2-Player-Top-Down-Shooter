@@ -15,5 +15,5 @@ https://www.pygame.org/wiki/GettingStarted
 
 ### Basic Project Summary
 
-1) Most of the game's core is in the Main.py file.
-2) Uses most basic python concepts to make a simple game. (lists, functions, loops, dictionaries, etc)
+- Most of the game's core is in the Main.py file.
+- Uses most basic python concepts to make a simple game. (lists, functions, loops, dictionaries, etc)
