@@ -20,3 +20,12 @@ https://www.pygame.org/wiki/GettingStarted
 
 ### Additional
 - Included a small coding diary inside to document my feelings and progress.
+
+## Authorship
+A code project by Wong Jo-Hann
+
+23/24 Coding One: Introduction to Creative Computing and Coding Practice
+
+Creative Computing BSc class
+
+UAL CCI University Of the Arts London
